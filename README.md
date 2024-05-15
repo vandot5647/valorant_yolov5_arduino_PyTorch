@@ -8,6 +8,8 @@ Since 2022
 
 Ini Adalah Contoh Videonya
 [https://studio.youtube.com/video/BEeUSiDGZ5c/edit](https://youtu.be/BEeUSiDGZ5c)
-![image](https://github.com/vandot5647/valorant_yolov5_arduino_PyTorch/assets/95358566/e17ce79d-fde9-4294-865d-de99163fcc40)
+
+![image](https://github.com/vandot5647/valorant_yolov5_arduino_PyTorch/assets/95358566/eaac7f14-da7f-4d1f-9cad-312c9c6a55b7)
+
 
 
