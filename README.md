@@ -1,5 +1,5 @@
 # valorant_yolov5_arduino_PyTorch
-Implementasi Yolov5 Pytorch TensorRT pada game Valorant menggunakan Arduino Leonardo R3 &amp; USB Host Shield dengan bahasa pemograman Python
+Implementasi Yolov5 Pytorch TensorRT pada game menggunakan Arduino Leonardo R3 &amp; USB Host Shield dengan bahasa pemograman Python
 
 In game mendapatkan 50FPS+- berbeda menggunakan Yolov4 CUDA GPU  mendapatkan 100FPS++
 Yolov5 Lebih akurat namun lebih berat dibandingkan Yolov4
