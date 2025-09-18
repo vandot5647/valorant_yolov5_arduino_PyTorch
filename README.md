@@ -1,4 +1,4 @@
-# valorant_yolov5_arduino_PyTorch
+# valorant_yolov5_arduino_PyTorch (Outdate)
 Deskripsi
 
 Siapa yang tidak tertarik melihat Computer Vision dipakai saat bermain game?
