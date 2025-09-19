@@ -9,7 +9,7 @@ Pada pengujian, performa yang diperoleh stabil di kisaran ~50 FPS, lebih rendah 
 ________________________________________
 Kenapa Menarik?
 
-•	Bukan sekadar tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
+•	Bukan tugas kampus — project ini terus dikembangkan, tidak berhenti hanya sekali pakai.
 
 •	CV + Game = kombinasi seru — belajar deteksi objek sambil melihat dampaknya langsung ke gameplay.
 
@@ -35,7 +35,7 @@ During testing, the performance was stable around ~50 FPS, lower compared to YOL
 ________________________________________
 Why It’s Interesting
 
-•	Not just a college assignment — this project keeps evolving, not a one-off.
+•	Not a campus assignment — this project keeps evolving, not a one-off.
 
 •	CV + Gaming = exciting combo — learn object detection while seeing the direct impact on gameplay.
 
